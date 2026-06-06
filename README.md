@@ -67,23 +67,6 @@ text AI-Foundation-Revision/ │ ├── README.md │ ├── Week-1-NumPy/
 
 ---
 
-## ✅ Progress Tracker
-
-| Day | Topic | Status |
-|------|--------|---------|
-| 1 | NumPy Foundations | ✅ |
-| 2 | Indexing & Slicing | ⬜ |
-| 3 | Reshape & Transpose | ⬜ |
-| 4 | Broadcasting | ⬜ |
-| 5 | Vectorization | ⬜ |
-| 6 | NumPy Practice | ⬜ |
-| 7 | NumPy Mini Project | ⬜ |
-| 8-14 | Pandas Revision | ⬜ |
-| 15-21 | OpenCV Fundamentals | ⬜ |
-| 22-28 | Computer Vision Projects | ⬜ |
-
----
-
 ## 🛠 Technologies Used
 
 - Python
