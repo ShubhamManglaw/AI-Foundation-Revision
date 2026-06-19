@@ -1,0 +1,5 @@
+Student_ID,Name,Class,Math,Physics,Computer,Total,Average,Percentage,Total_Rank,Math_Rank,Computer_Rank
+101,Shubham,A,85,78,92,255,85.0,85.0,4,4,3
+103,Rohit,A,90,88,95,273,91.0,91.0,2,2,2
+105,Neha,B,95,91,98,284,94.67,94.67,1,1,1
+107,Sonia,C,88,84,89,261,87.0,87.0,3,3,4
