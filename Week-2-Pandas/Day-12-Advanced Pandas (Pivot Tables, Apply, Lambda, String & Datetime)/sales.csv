@@ -1,0 +1,4 @@
+Order_ID,Customer_Name,Category,Quantity,Price,Date
+1, alice ,Electronics,2,500,2025-01-15
+2,bob,Furniture,1,700,2025-02-10
+3,Charlie,Electronics,3,250,2025-03-05
