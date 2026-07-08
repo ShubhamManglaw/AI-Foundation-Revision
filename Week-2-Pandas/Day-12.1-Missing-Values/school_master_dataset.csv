@@ -1,0 +1,6 @@
+Student_ID,Name,Class,Math,Physics,Computer,Attendance,Total,Average,Grade
+101,Shubham,A,95,91,96,96,282,94.0,A+
+102,Amit,A,78,85,80,89,243,81.0,A
+103,Priya,B,88,90,89,91,267,89.0,A
+104,Rohit,B,60,65,70,82,195,65.0,C
+105,Neha,C,92,95,98,98,285,95.0,A+
